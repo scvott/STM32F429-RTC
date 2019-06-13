@@ -5,7 +5,8 @@ STM32F429 discover board
 This is the final project for ARM CortexM4. 
   
 ## Features
-Set time and date on the STM32F429's LCD
+1. Set time and date  
+2. Display date and time on LCD
 
 ## Reference (參考資料): 
 1.https://github.com/MaJerle/stm32f429  
