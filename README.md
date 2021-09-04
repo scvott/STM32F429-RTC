@@ -3,6 +3,7 @@ STM32F429 discover board
 
 ## Introction
 This is the final project for ARM CortexM4. 
+The project is design a calendar on the STM32F429.
   
 ## Features
 1. Set time and date  
